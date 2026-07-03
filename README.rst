@@ -4,10 +4,10 @@
 What / Why / Why Ex / How
 -------------------------
 
-What   -> What you need?
-Why    -> Why you need?
-How    -> How make it?
-Why ex -> Why exactly this?
+1. What   -> What you need?
+2. Why    -> Why you need?
+3. How    -> How make it?
+4. Why ex -> Why exactly this?
 
 MAKE
 ----
