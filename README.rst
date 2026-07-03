@@ -30,8 +30,8 @@ Works with any programming language, Turing-complete, fast, smart, popular.
 How?
 ~~~~
 
-* Learn base syntax by guides `[ ]`
-* Practice                    `[ ]`
-* Learn deeply                `[ ]`
-* Practice                    `[ ]`
+* Learn base syntax by guides `[X]`
+* Practice                    `[X]`
+* Learn deeply                `[X]`
+* Practice                    `[X]`
 * Make a snake game in make   `[ ]`
